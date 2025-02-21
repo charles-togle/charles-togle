@@ -1,6 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charles-togle&label=Profile%20views&color=0e75b6&style=flat" alt="charles-togle" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=charles-togle&label=Profile%20views&color=0e75b6&style=flat" alt="charles-togle" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charles-togle" alt="charles-togle" /></a> </p>
 
 - 🔭 I’m currently working on **a all in one notes app**
 
