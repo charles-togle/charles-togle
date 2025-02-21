@@ -4,12 +4,19 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=charles-togle&label=Profile%20views&color=0e75b6&style=flat" alt="charles-togle" /> </p>
 - 🔭 I’m currently working on **a all in one notes app**
+
 - 🌱 I’m currently learning **ReactJS, NodeJS, ExpressJS, MongoDB**
+  
 - 👨‍💻 All of my projects are available at [https://github.com/charles-togle?tab=repositories](https://github.com/charles-togle?tab=repositories)
+  
 - 📝 My portfolio is up on [https://charles-togle.github.io/web-portfolio/](https://charles-togle.github.io/web-portfolio/)
+  
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, Java, C#**
+  
 - 📫 How to reach me **charles3togle@gmail.com**
+  
 - 📄 My LinkedIn is [https://www.linkedin.com/in/charles-nathaniel-togle-09858b350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/charles-nathaniel-togle-09858b350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  
 - ⚡ Fun fact **I am lazy**
 
 <h3 align="left">Connect with me:</h3>
