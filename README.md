@@ -1,8 +1,14 @@
+<p align = center>
+    <b>What's up everyone!!</b>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+</p>
+<hr>
 <p align=center>
   <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnk1aHcwcHczaXdpcXg0NnhhOHAzcjJiMDdiZmF1ZThuaWQzbmo2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26his8ERHOSxKuWw8/giphy.gif" alt = "js">
 </p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=charles-togle&label=Profile%20views&color=0e75b6&style=flat" alt="charles-togle" /> </p>
+
+<hr>
 
 - 🔭 I’m currently working on **a all in one notes app**
 
