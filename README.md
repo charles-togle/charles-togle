@@ -28,7 +28,7 @@
 
 <hr>
 <p align=center>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTI3NHNwbDEzZWdob2w5c3dteTNpbG42eHVjZmd6cHQzZmwzbnBweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTI3NHNwbDEzZWdob2w5c3dteTNpbG42eHVjZmd6cHQzZmwzbnBweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" width = 100px>
 </p>
 <hr>
 <h3 align="left">Connect with me:</h3>
