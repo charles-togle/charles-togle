@@ -3,6 +3,7 @@
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=charles-togle&label=Profile%20views&color=0e75b6&style=flat" alt="charles-togle" /> </p>
+
 - 🔭 I’m currently working on **a all in one notes app**
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, ExpressJS, MongoDB**
