@@ -14,15 +14,15 @@
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, ExpressJS, MongoDB**
   
-- 👨‍💻 All of my projects are available at [https://github.com/charles-togle?tab=repositories](https://github.com/charles-togle?tab=repositories)
+- 👨‍💻 All of my projects are available [Here] (https://github.com/charles-togle?tab=repositories)
   
-- 📝 My portfolio is up on [https://charles-togle.github.io/web-portfolio/](https://charles-togle.github.io/web-portfolio/)
+- 📝 My portfolio is up [Here](https://charles-togle.github.io/web-portfolio/)
   
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, Java, C#**
   
 - 📫 How to reach me **charles3togle@gmail.com**
   
-- 📄 My LinkedIn is [https://www.linkedin.com/in/charles-nathaniel-togle-09858b350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/charles-nathaniel-togle-09858b350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📄 My LinkedIn is [Here](https://www.linkedin.com/in/charles-nathaniel-togle-09858b350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
   
 - ⚡ Fun fact **I am lazy**
 
