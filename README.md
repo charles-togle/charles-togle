@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, ExpressJS, MongoDB**
   
-- 👨‍💻 All of my projects are available [Here] (https://github.com/charles-togle?tab=repositories)
+- 👨‍💻 All of my projects are available [Here](https://github.com/charles-togle?tab=repositories)
   
 - 📝 My portfolio is up [Here](https://charles-togle.github.io/web-portfolio/)
   
