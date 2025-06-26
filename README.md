@@ -10,7 +10,7 @@
 
 <hr>
 
-- 🔭 I’m currently working on **a all in one notes app**
+- 🔭 I’m currently a student at the **University of Makati** 
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, ExpressJS, MongoDB**
   
